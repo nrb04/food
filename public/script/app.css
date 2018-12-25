@@ -1,0 +1,13 @@
+.head{
+    margin-left: 30%;
+}
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+.TREE {
+    flex: 30 0 30%;
+    margin: 5px;
+    height: 100px;
+}
+
